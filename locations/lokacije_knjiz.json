@@ -1,0 +1,399 @@
+{
+    "help":"https://data.gov.hr/ckan/api/3/action/help_show?name=datastore_search",
+    "success":true,
+    "result":{
+       "include_total":true,
+       "resource_id":"85a61aa0-a909-4828-a839-262d2166e565",
+       "fields":[
+          {
+             "type":"int",
+             "id":"_id"
+          },
+          {
+             "type":"text",
+             "id":"Naziv"
+          },
+          {
+             "type":"text",
+             "id":"Adresa"
+          },
+          {
+             "type":"text",
+             "id":"Mjesto"
+          },
+          {
+             "type":"numeric",
+             "id":"Latitude"
+          },
+          {
+             "type":"numeric",
+             "id":"Longitude"
+          }
+       ],
+       "records_format":"objects",
+       "records":[
+          {
+             "_id":1,
+             "Naziv":"KGZ - Gradska knjižnica",
+             "Adresa":"Starčevićev trg 6",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8058276,
+             "Longitude":15.977515700000026
+          },
+          {
+             "_id":2,
+             "Naziv":"KGZ - Knjižnica Božidara Adžije",
+             "Adresa":"Trg Petra Krešimira IV/2",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8085489,
+             "Longitude":15.992066000000022
+          },
+          {
+             "_id":3,
+             "Naziv":"KGZ - Bibliobusna služba",
+             "Adresa":"Dragutina Golika 36",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8020858,
+             "Longitude":15.929020900000068
+          },
+          {
+             "_id":4,
+             "Naziv":"KGZ - Knjižnica Tina Ujevića",
+             "Adresa":"Ulica grada Vukovara 14",
+             "Mjesto":"Zagreb",
+             "Latitude":45.7991227,
+             "Longitude":15.95633840000005
+          },
+          {
+             "_id":5,
+             "Naziv":"Knjižnica Ljubljanica",
+             "Adresa":"Ljubljanica 24",
+             "Mjesto":"Zagreb",
+             "Latitude":45.7967792,
+             "Longitude":15.934224599999993
+          },
+          {
+             "_id":6,
+             "Naziv":"Knjižnica Knežija",
+             "Adresa":"Albaharijeva 7",
+             "Mjesto":"Zagreb",
+             "Latitude":45.791089,
+             "Longitude":15.950695499999938
+          },
+          {
+             "_id":7,
+             "Naziv":"Knjižnica Prečko",
+             "Adresa":"Slavenskoga 12",
+             "Mjesto":"Zagreb",
+             "Latitude":45.7947743,
+             "Longitude":15.89924659999997
+          },
+          {
+             "_id":8,
+             "Naziv":"Knjižnica Staglišće",
+             "Adresa":"Augusta Prosenika 7",
+             "Mjesto":"Zagreb",
+             "Latitude":45.78808009999999,
+             "Longitude":15.931321400000001
+          },
+          {
+             "_id":9,
+             "Naziv":"Knjižnica Voltino",
+             "Adresa":"Dragutina Golika 36",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8020858,
+             "Longitude":15.929020900000068
+          },
+          {
+             "_id":10,
+             "Naziv":"KGZ - Knjižnica Novi Zagreb",
+             "Adresa":"Ulica Božidara Magovca 15",
+             "Mjesto":"Zagreb",
+             "Latitude":45.7717979,
+             "Longitude":15.99522890000003
+          },
+          {
+             "_id":11,
+             "Naziv":"Knjižnica Dugave",
+             "Adresa":"Svetog Mateja 7",
+             "Mjesto":"Zagreb",
+             "Latitude":45.7654598,
+             "Longitude":15.994862300000022
+          },
+          {
+             "_id":12,
+             "Naziv":"Knjižnica Savski Gaj",
+             "Adresa":"Nehruov trg 46",
+             "Mjesto":"Zagreb",
+             "Latitude":45.7758742,
+             "Longitude":15.955885099999932
+          },
+          {
+             "_id":13,
+             "Naziv":"Knjižnica Vjekoslava Majera",
+             "Adresa":"Meštrovićev trg 1G",
+             "Mjesto":"Zagreb",
+             "Latitude":45.7794791,
+             "Longitude":15.996366399999942
+          },
+          {
+             "_id":14,
+             "Naziv":"Knjižnica Sloboština",
+             "Adresa":"Karela Zahradnika 8",
+             "Mjesto":"Zagreb",
+             "Latitude":45.7626504,
+             "Longitude":15.986413800000036
+          },
+          {
+             "_id":15,
+             "Naziv":"Knjižnica Mala Mlaka",
+             "Adresa":"Malomlačka 91",
+             "Mjesto":"Zagreb",
+             "Latitude":45.7299145,
+             "Longitude":15.976378299999964
+          },
+          {
+             "_id":16,
+             "Naziv":"KGZ - Knjižnica Marije Jurić Zagorke",
+             "Adresa":"Krvavi most 2       ",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8147155,
+             "Longitude":15.9758468
+          },
+          {
+             "_id":17,
+             "Naziv":"KGZ - Knjižnica i čitaonica Bogdana Ogrizovića",
+             "Adresa":"Preradovićeva 5",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8114453,
+             "Longitude":15.974292600000012
+          },
+          {
+             "_id":18,
+             "Naziv":"KGZ - Knjižnica Dubrava",
+             "Adresa":"Avenija Dubrava 51a",
+             "Mjesto":"Zagreb",
+             "Latitude":45.825995,
+             "Longitude":16.04404999999997
+          },
+          {
+             "_id":19,
+             "Naziv":"KGZ - Knjižnica Sesvete",
+             "Adresa":"Trg Dragutina Domjanića 6",
+             "Mjesto":"Sesvete ",
+             "Latitude":45.8268626,
+             "Longitude":16.109585700000025
+          },
+          {
+             "_id":20,
+             "Naziv":"Knjižnica Dubec",
+             "Adresa":"Rudolfa Ivankovića 34",
+             "Mjesto":"Zagreb",
+             "Latitude":45.82957039999999,
+             "Longitude":16.082730699999956
+          },
+          {
+             "_id":21,
+             "Naziv":"Knjižnica Selčina",
+             "Adresa":"Selčinska 8",
+             "Mjesto":"Sesvete",
+             "Latitude":45.8319531,
+             "Longitude":16.11222280000004
+          },
+          {
+             "_id":22,
+             "Naziv":"Knjižnica Jelkovec",
+             "Adresa":"Vladimira Stahuljaka 3",
+             "Mjesto":"Sesvete",
+             "Latitude":45.8106498,
+             "Longitude":16.107465899999965
+          },
+          {
+             "_id":23,
+             "Naziv":"KGZ - Knjižnica Augusta Cesarca",
+             "Adresa":"Šubićeva 40/2",
+             "Mjesto":"Zagreb",
+             "Latitude":45.80870700000001,
+             "Longitude":15.992169800000056
+          },
+          {
+             "_id":24,
+             "Naziv":"Knjižnica Augusta Cesarca",
+             "Adresa":"Radauševa 7",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8201247,
+             "Longitude":16.02642209999999
+          },
+          {
+             "_id":25,
+             "Naziv":"KGZ - Knjižnica Silvija Strahimira Kranjčevića",
+             "Adresa":"Zapoljska 1",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8059521,
+             "Longitude":16.020210099999985
+          },
+          {
+             "_id":26,
+             "Naziv":"Knjižnica Ivane Brlić Mažuranić",
+             "Adresa":"Laurenčićeva 8",
+             "Mjesto":"Zagreb",
+             "Latitude":45.7934607,
+             "Longitude":16.003725499999973
+          },
+          {
+             "_id":27,
+             "Naziv":"KGZ - Knjižnica Medveščak",
+             "Adresa":"Trg žrtava fašizma 7",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8102538,
+             "Longitude":15.988167400000065
+          },
+          {
+             "_id":28,
+             "Naziv":"Dječja knjižnica „M2“",
+             "Adresa":"Medveščak 71",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8242203,
+             "Longitude":15.980200100000047
+          },
+          {
+             "_id":29,
+             "Naziv":"KGZ - Gradska knjižnica Ante Kovačića",
+             "Adresa":"Trg žrtava fašizma 6",
+             "Mjesto":"Zaprešić",
+             "Latitude":45.8579221,
+             "Longitude":15.805092999999942
+          },
+          {
+             "_id":30,
+             "Naziv":"KGZ - Knjižnica Marina Držića",
+             "Adresa":"Ulica grada Vukovara 222",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8000832,
+             "Longitude":15.9870588
+          },
+          {
+             "_id":31,
+             "Naziv":"Knjižnica Savica",
+             "Adresa":"Ljerke Šram 4",
+             "Mjesto":"Zagreb",
+             "Latitude":45.7935479,
+             "Longitude":15.995874500000013
+          },
+          {
+             "_id":32,
+             "Naziv":"Knjižnica Marina Držića",
+             "Adresa":"Ulica grada Vukovara 222",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8000832,
+             "Longitude":15.9870588
+          },
+          {
+             "_id":33,
+             "Naziv":"Knjižnica Ivana Gorana Kovačića",
+             "Adresa":"Ulica Grada Vukovara 35",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8000023,
+             "Longitude":15.96636609999996
+          },
+          {
+             "_id":34,
+             "Naziv":"Dječja knjižnica Marina Držića",
+             "Adresa":"Avenija Marina Držića 10",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8018127,
+             "Longitude":15.994499700000005
+          },
+          {
+             "_id":35,
+             "Naziv":"KGZ - Knjižnica Vladimira Nazora",
+             "Adresa":"Vodovodna 13",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8110866,
+             "Longitude":15.948665000000005
+          },
+          {
+             "_id":36,
+             "Naziv":"Čitaonica i Galerija VN",
+             "Adresa":"Ilica 163a",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8123666,
+             "Longitude":15.948927599999933
+          },
+          {
+             "_id":37,
+             "Naziv":"Knjižnica Kajfešov Brijeg",
+             "Adresa":"Ul. grada Gualdo Tadino 4",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8169008,
+             "Longitude":15.943541600000003
+          },
+          {
+             "_id":38,
+             "Naziv":"Knjižnica Kustošija",
+             "Adresa":"Ilica 312a",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8136184,
+             "Longitude":15.926466399999981
+          },
+          {
+             "_id":39,
+             "Naziv":"Čitaonica Kustošija",
+             "Adresa":"Trg Hrvatskih obrambenih snaga 6",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8105153,
+             "Longitude":15.8920028
+          },
+          {
+             "_id":40,
+             "Naziv":"Knjižnica Vrapče",
+             "Adresa":"Ulica Majke Terezije 2",
+             "Mjesto":"Zagreb",
+             "Latitude":45.81277739999999,
+             "Longitude":15.89876819999995
+          },
+          {
+             "_id":41,
+             "Naziv":"Knjižna stanica Gornje Vrapče",
+             "Adresa":"Vrapčanska 166",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8306337,
+             "Longitude":15.905295900000055
+          },
+          {
+             "_id":42,
+             "Naziv":"Knjižnica Gajnice",
+             "Adresa":"Meksička ulica 6",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8148943,
+             "Longitude":15.873847299999965
+          },
+          {
+             "_id":43,
+             "Naziv":"Knjižnica Špansko-sjever",
+             "Adresa":"Trg I. Kukuljevića 9",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8051896,
+             "Longitude":15.896434399999975
+          },
+          {
+             "_id":44,
+             "Naziv":"Knjižnica Špansko-jug",
+             "Adresa":"Slavka Batušića 4",
+             "Mjesto":"Zagreb",
+             "Latitude":45.8009598,
+             "Longitude":15.89718270000003
+          },
+          {
+             "_id":45,
+             "Naziv":"Knjižnica Podsused",
+             "Adresa":"Podsusedski trg 3",
+             "Mjesto":"Zagreb",
+             "Latitude":45.816478,
+             "Longitude":15.835098499999958
+          }
+       ],
+
+       "total":45
+    }
+ }

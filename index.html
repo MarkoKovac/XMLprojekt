@@ -8,28 +8,21 @@
   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
-
-<div id="head">
-   <h1>Naslov</h1>
-</div>
-<div id="map">
-</div> 
-<div id="nav">
-  <ul>
-    <li><a href=""><img src="wifi.png" alt=""></a></li>
-    <li><a href=""><img src="bike.png" alt=""></a></li>
-    <li><a href=""><img src="book.png" alt=""></a></li>
-    <li><a href=""><img src="snail.png" alt=""></a></li>
-  </ul>
-</div>
-
-
-
+  <div id="head">
+     <h1>Naslov</h1>
+  </div>
+  <div id="map">
+  </div> 
+  <div id="nav">
+    <ul>
+      <li><a href="" id="1" onclick="map1(1)"><img src="icons/menu_icons/wifi.png"></a></li>
+      <li><a href="" id="2" onclick="map1(2)"><img src="icons/menu_icons/bike.png" alt=""></a></li>
+      <li><a href="" id="3" onclick="map1(3)"><img src="icons/menu_icons/book.png" alt=""></a></li>
+      <li><a href="" id="4" onclick="map1(4)"><img src="icons/menu_icons/snail.png" alt=""></a></li>
+    </ul>
+  </div>
 </body>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCuCPSHT2VD5qiKl2YV1kGWH2bMqZRQaZQ&callback=initMap&v=weekly" defer></script>
-<script
-  src="https://code.jquery.com/jquery-3.6.0.js"
-  integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
-  crossorigin="anonymous"></script>
 <script src="script.js"></script>
+
 </html>
