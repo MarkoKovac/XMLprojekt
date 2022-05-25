@@ -1,0 +1,62 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#head{
+  z-index: 1;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+}
+
+#map {
+  height: 100%;
+}
+
+#nav {
+  z-index: 1;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: 60px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+
+#nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#nav ul li{
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+}
+
+#nav ul li a{
+  display:inline-block;
+  text-decoration: none;
+  width: 60px;
+  height: 60px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+
+#nav ul li img{
+  width: 46px;
+  height: 46px;
+}
