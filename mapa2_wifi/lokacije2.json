@@ -1,0 +1,634 @@
+{
+   "help":"https://data.gov.hr/ckan/api/3/action/help_show?name=datastore_search",
+   "success":true,
+   "result":{
+      "include_total":true,
+      "resource_id":"93294680-2e9e-4e4e-b095-86ac4a334449",
+      "fields":[
+         {
+            "type":"int",
+            "id":"_id"
+         },
+         {
+            "type":"text",
+            "id":"Name"
+         },
+         {
+            "type":"numeric",
+            "id":"Longitude"
+         },
+         {
+            "type":"numeric",
+            "id":"Latitude"
+         }
+      ],
+      "records_format":"objects",
+      "records":[
+         {
+            "_id":1,
+            "Name":"Tržnica Dolac",
+            "Longitude":15.976926038540892,
+            "Latitude":45.81431710944771
+         },
+         {
+            "_id":2,
+            "Name":"Trg Francuske republike",
+            "Longitude":15.955322336494039,
+            "Latitude":45.810490867684216
+         },
+         {
+            "_id":3,
+            "Name":"Autobusni kolodvor Zagreb",
+            "Longitude":15.993124004032568,
+            "Latitude":45.80368289147405
+         },
+         {
+            "_id":4,
+            "Name":"Autobusni kolodvor Zagreb",
+            "Longitude":15.993620578027171,
+            "Latitude":45.80334426030246
+         },
+         {
+            "_id":5,
+            "Name":"Trg hrvatskih velikana",
+            "Longitude":15.983950940364814,
+            "Latitude":45.81213114648485
+         },
+         {
+            "_id":6,
+            "Name":"Trg Bana Josipa Jelačića",
+            "Longitude":15.977408133400568,
+            "Latitude":45.81259005354083
+         },
+         {
+            "_id":7,
+            "Name":"Trg Bana Josipa Jelačića",
+            "Longitude":15.977508902004764,
+            "Latitude":45.812470770553325
+         },
+         {
+            "_id":8,
+            "Name":"Trg Bana Josipa Jelačića",
+            "Longitude":15.976133083834828,
+            "Latitude":45.81319603126155
+         },
+         {
+            "_id":9,
+            "Name":"Trg Bana Josipa Jelačića",
+            "Longitude":15.976272532836553,
+            "Latitude":45.81277312082615
+         },
+         {
+            "_id":10,
+            "Name":"Trg Bana Josipa Jelačića",
+            "Longitude":15.978401853948865,
+            "Latitude":45.81278862779387
+         },
+         {
+            "_id":11,
+            "Name":"Trg Bana Josipa Jelačića",
+            "Longitude":15.978680764162705,
+            "Latitude":45.81252348036289
+         },
+         {
+            "_id":12,
+            "Name":"Trg Sv. Marka",
+            "Longitude":15.97330198071788,
+            "Latitude":45.815938480005855
+         },
+         {
+            "_id":13,
+            "Name":"Trg Sv. Marka",
+            "Longitude":15.973428304964802,
+            "Latitude":45.81551689302133
+         },
+         {
+            "_id":14,
+            "Name":"Palača Dverce",
+            "Longitude":15.973793623202734,
+            "Latitude":45.81466165744701
+         },
+         {
+            "_id":15,
+            "Name":"Palača Dverce",
+            "Longitude":15.973443103068435,
+            "Latitude":45.8144888144087
+         },
+         {
+            "_id":16,
+            "Name":"Palača Dverce",
+            "Longitude":15.973932421350247,
+            "Latitude":45.8142020524409
+         },
+         {
+            "_id":17,
+            "Name":"Trg kralja Tomislava",
+            "Longitude":15.979269120633479,
+            "Latitude":45.80748514649264
+         },
+         {
+            "_id":18,
+            "Name":"Trg kralja Tomislava",
+            "Longitude":15.979369644165049,
+            "Latitude":45.806285489138105
+         },
+         {
+            "_id":19,
+            "Name":"Trg kralja Tomislava",
+            "Longitude":15.97941402872682,
+            "Latitude":45.805340747086966
+         },
+         {
+            "_id":20,
+            "Name":"Trg kralja Tomislava",
+            "Longitude":15.9779368650679,
+            "Latitude":45.80571861979611
+         },
+         {
+            "_id":21,
+            "Name":"Trg kralja Tomislava",
+            "Longitude":15.977784541708195,
+            "Latitude":45.807402253650615
+         },
+         {
+            "_id":22,
+            "Name":"Trg kralja Tomislava",
+            "Longitude":15.977072047463542,
+            "Latitude":45.80459056045725
+         },
+         {
+            "_id":23,
+            "Name":"Trg Josipa Jurja Strossmayera",
+            "Longitude":15.979229234221327,
+            "Latitude":45.80838494224621
+         },
+         {
+            "_id":24,
+            "Name":"Trg Josipa Jurja Strossmayera",
+            "Longitude":15.977651860067889,
+            "Latitude":45.80943023299541
+         },
+         {
+            "_id":25,
+            "Name":"Trg Josipa Jurja Strossmayera",
+            "Longitude":15.97774323050455,
+            "Latitude":45.808206898890724
+         },
+         {
+            "_id":26,
+            "Name":"Trg Josipa Jurja Strossmayera",
+            "Longitude":15.979152785585443,
+            "Latitude":45.809360313275384
+         },
+         {
+            "_id":27,
+            "Name":"Trg Nikole Šubića Zrinskog",
+            "Longitude":15.978195299756228,
+            "Latitude":45.8103762146214
+         },
+         {
+            "_id":28,
+            "Name":"Trg Nikole Šubića Zrinskog",
+            "Longitude":15.978873163516388,
+            "Latitude":45.81060424183757
+         },
+         {
+            "_id":29,
+            "Name":"Trg Nikole Šubića Zrinskog",
+            "Longitude":15.977295105179648,
+            "Latitude":45.811402578952546
+         },
+         {
+            "_id":30,
+            "Name":"Trg Republike Hrvatske (HNK)",
+            "Longitude":15.970926217681532,
+            "Latitude":45.80904507831336
+         },
+         {
+            "_id":31,
+            "Name":"Trg Republike Hrvatske (HNK)",
+            "Longitude":15.96923438834909,
+            "Latitude":45.80900549337461
+         },
+         {
+            "_id":32,
+            "Name":"Trg Republike Hrvatske (HNK)",
+            "Longitude":15.9692003012238,
+            "Latitude":45.81022037305646
+         },
+         {
+            "_id":33,
+            "Name":"Trg Republike Hrvatske (HNK)",
+            "Longitude":15.970606011974972,
+            "Latitude":45.81018883695119
+         },
+         {
+            "_id":34,
+            "Name":"Trg Eugena Kvaternika",
+            "Longitude":15.997618211115732,
+            "Latitude":45.814383748762154
+         },
+         {
+            "_id":35,
+            "Name":"Trg Eugena Kvaternika",
+            "Longitude":15.997013333219732,
+            "Latitude":45.81490089811186
+         },
+         {
+            "_id":36,
+            "Name":"Trg Eugena Kvaternika",
+            "Longitude":15.99670232673274,
+            "Latitude":45.81441673928606
+         },
+         {
+            "_id":37,
+            "Name":"Kaptol",
+            "Longitude":15.97851538503184,
+            "Latitude":45.81586222502136
+         },
+         {
+            "_id":38,
+            "Name":"Kaptol",
+            "Longitude":15.978693372487824,
+            "Latitude":45.814416468843845
+         },
+         {
+            "_id":39,
+            "Name":"Trg Petra Preradovića",
+            "Longitude":15.974627135605948,
+            "Latitude":45.81216330723714
+         },
+         {
+            "_id":40,
+            "Name":"Trg Petra Preradovića",
+            "Longitude":15.974340665491857,
+            "Latitude":45.812364550656056
+         },
+         {
+            "_id":41,
+            "Name":"Studentski Centar (Savska cesta 25)",
+            "Longitude":15.966176169666685,
+            "Latitude":45.803571502655025
+         },
+         {
+            "_id":42,
+            "Name":"Studentski Centar (Savska cesta 25)",
+            "Longitude":15.966410835873393,
+            "Latitude":45.80356949358773
+         },
+         {
+            "_id":43,
+            "Name":"Studentski Centar (Savska cesta 25)",
+            "Longitude":15.966213518609504,
+            "Latitude":45.8037136209433
+         },
+         {
+            "_id":44,
+            "Name":"Studentski Centar (Savska cesta 25)",
+            "Longitude":15.966700540127073,
+            "Latitude":45.80386565186028
+         },
+         {
+            "_id":45,
+            "Name":"Studentski Centar (Savska cesta 25)",
+            "Longitude":15.967132801650287,
+            "Latitude":45.803476322813246
+         },
+         {
+            "_id":46,
+            "Name":"Centar za kulturu i informacije Maksimir",
+            "Longitude":16.00452506902087,
+            "Latitude":45.81863934046888
+         },
+         {
+            "_id":47,
+            "Name":"Centar za kulturu i informacije Maksimir",
+            "Longitude":16.00483403961976,
+            "Latitude":45.818561333313006
+         },
+         {
+            "_id":48,
+            "Name":"Bogovićeva ulica",
+            "Longitude":15.975862196741222,
+            "Latitude":45.81213131489262
+         },
+         {
+            "_id":49,
+            "Name":"Ilica",
+            "Longitude":15.971754763587098,
+            "Latitude":45.813123151741785
+         },
+         {
+            "_id":50,
+            "Name":"Ilica",
+            "Longitude":15.974547736195722,
+            "Latitude":45.81307468647125
+         },
+         {
+            "_id":51,
+            "Name":"Jurišićeva ulica",
+            "Longitude":15.980404927476194,
+            "Latitude":45.81228730681953
+         },
+         {
+            "_id":52,
+            "Name":"Trg Stjepana Radića",
+            "Longitude":15.977118353719863,
+            "Latitude":45.80120801772974
+         },
+         {
+            "_id":53,
+            "Name":"Trg Stjepana Radića",
+            "Longitude":15.979506872874223,
+            "Latitude":45.80128540839938
+         },
+         {
+            "_id":54,
+            "Name":"Trg Stjepana Radića",
+            "Longitude":15.979631055526278,
+            "Latitude":45.80055328562781
+         },
+         {
+            "_id":55,
+            "Name":"Ulica Hrvatske bratske zajednice – fontane",
+            "Longitude":15.979399282769123,
+            "Latitude":45.797993526193615
+         },
+         {
+            "_id":56,
+            "Name":"Ulica Hrvatske bratske zajednice – fontane",
+            "Longitude":15.979393966651013,
+            "Latitude":45.79770946743699
+         },
+         {
+            "_id":57,
+            "Name":"Ulica Hrvatske bratske zajednice – fontane",
+            "Longitude":15.979406658457249,
+            "Latitude":45.79669259936492
+         },
+         {
+            "_id":58,
+            "Name":"Ulica Hrvatske bratske zajednice – fontane",
+            "Longitude":15.97944754299413,
+            "Latitude":45.79634154695751
+         },
+         {
+            "_id":59,
+            "Name":"Autobusni terminal Črnomerec",
+            "Longitude":15.93363625885396,
+            "Latitude":45.814922372124485
+         },
+         {
+            "_id":60,
+            "Name":"Autobusni terminal Črnomerec",
+            "Longitude":15.933568890198968,
+            "Latitude":45.81548226392667
+         },
+         {
+            "_id":61,
+            "Name":"Autobusni terminal Črnomerec",
+            "Longitude":15.934507188411885,
+            "Latitude":45.815540474557594
+         },
+         {
+            "_id":62,
+            "Name":"Autobusni terminal Črnomerec",
+            "Longitude":15.934348403683938,
+            "Latitude":45.814965687888694
+         },
+         {
+            "_id":63,
+            "Name":"Park Stara Trešnjevka",
+            "Longitude":15.949363406957028,
+            "Latitude":45.79779357447658
+         },
+         {
+            "_id":64,
+            "Name":"Park Stara Trešnjevka",
+            "Longitude":15.948970667254398,
+            "Latitude":45.79825211015408
+         },
+         {
+            "_id":65,
+            "Name":"Park Stara Trešnjevka",
+            "Longitude":15.948358857502022,
+            "Latitude":45.798219439451884
+         },
+         {
+            "_id":66,
+            "Name":"Park Stara Trešnjevka",
+            "Longitude":15.948768729942323,
+            "Latitude":45.79870805141039
+         },
+         {
+            "_id":67,
+            "Name":"Park Stara Trešnjevka",
+            "Longitude":15.949822786494726,
+            "Latitude":45.798107479049726
+         },
+         {
+            "_id":68,
+            "Name":"Tržnica Trešnjevka",
+            "Longitude":15.95367272144209,
+            "Latitude":45.79925292698841
+         },
+         {
+            "_id":69,
+            "Name":"Tržnica Trešnjevka",
+            "Longitude":15.95360211385165,
+            "Latitude":45.799804744508286
+         },
+         {
+            "_id":70,
+            "Name":"Tržnica Trešnjevka",
+            "Longitude":15.953966231560905,
+            "Latitude":45.79855027284043
+         },
+         {
+            "_id":71,
+            "Name":"Tržnica Trešnjevka",
+            "Longitude":15.954113473960671,
+            "Latitude":45.800020344393225
+         },
+         {
+            "_id":72,
+            "Name":"Autobusni terminal Ljubljanica",
+            "Longitude":15.938514718482738,
+            "Latitude":45.79721797756929
+         },
+         {
+            "_id":73,
+            "Name":"Autobusni terminal Ljubljanica",
+            "Longitude":15.93676490979349,
+            "Latitude":45.79657534353765
+         },
+         {
+            "_id":74,
+            "Name":"Autobusni terminal Ljubljanica",
+            "Longitude":15.937496955504109,
+            "Latitude":45.797032312884475
+         },
+         {
+            "_id":75,
+            "Name":"Autobusni terminal Ljubljanica",
+            "Longitude":15.936858402276982,
+            "Latitude":45.79557416204976
+         },
+         {
+            "_id":76,
+            "Name":"Tehnički muzej",
+            "Longitude":15.964479120632772,
+            "Latitude":45.80377476069541
+         },
+         {
+            "_id":77,
+            "Name":"Tržnica Jarun",
+            "Longitude":15.928903339441323,
+            "Latitude":45.789794539259326
+         },
+         {
+            "_id":78,
+            "Name":"Tržnica Jarun",
+            "Longitude":15.929075515399957,
+            "Latitude":45.789615304989205
+         },
+         {
+            "_id":79,
+            "Name":"Britanski trg",
+            "Longitude":15.96416880684394,
+            "Latitude":45.8136051532601
+         },
+         {
+            "_id":80,
+            "Name":"Britanski trg",
+            "Longitude":15.964596746476223,
+            "Latitude":45.812973118763715
+         },
+         {
+            "_id":81,
+            "Name":"Autobusni terminal Dubrava",
+            "Longitude":16.036760061093794,
+            "Latitude":45.82423691203112
+         },
+         {
+            "_id":82,
+            "Name":"Autobusni terminal Dubrava",
+            "Longitude":16.03667576353965,
+            "Latitude":45.82481364796417
+         },
+         {
+            "_id":83,
+            "Name":"Autobusni terminal Dubrava",
+            "Longitude":16.037929612949128,
+            "Latitude":45.82450244270906
+         },
+         {
+            "_id":84,
+            "Name":"Tramvajski terminal Maksimir",
+            "Longitude":16.013153292071088,
+            "Latitude":45.81858660483511
+         },
+         {
+            "_id":85,
+            "Name":"Tramvajski terminal Maksimir",
+            "Longitude":16.015653800550464,
+            "Latitude":45.819532688894334
+         },
+         {
+            "_id":86,
+            "Name":"Tramvajski terminal Maksimir",
+            "Longitude":16.01414339457901,
+            "Latitude":45.81903299322437
+         },
+         {
+            "_id":87,
+            "Name":"Tramvajski terminal Maksimir",
+            "Longitude":16.012945876480128,
+            "Latitude":45.81792226405408
+         },
+         {
+            "_id":88,
+            "Name":"Tramvajski terminal Maksimir",
+            "Longitude":16.012137194768727,
+            "Latitude":45.81869286459787
+         },
+         {
+            "_id":89,
+            "Name":"Autobusni terminal Sesvete",
+            "Longitude":16.109523920375764,
+            "Latitude":45.82552343690772
+         },
+         {
+            "_id":90,
+            "Name":"Autobusni terminal Sesvete",
+            "Longitude":16.10823342550238,
+            "Latitude":45.825844593311004
+         },
+         {
+            "_id":91,
+            "Name":"Autobusni terminal Sesvete",
+            "Longitude":16.10706340299717,
+            "Latitude":45.82614401637963
+         },
+         {
+            "_id":92,
+            "Name":"Trg Dr. Franje Tuđmana",
+            "Longitude":15.955213130718057,
+            "Latitude":45.81286779965372
+         },
+         {
+            "_id":93,
+            "Name":"Trg Dr. Franje Tuđmana",
+            "Longitude":15.956247515134793,
+            "Latitude":45.81309140496513
+         },
+         {
+            "_id":94,
+            "Name":"Trg Eugena Kvaternika, jug - Heinzelova ulica",
+            "Longitude":15.99769907599524,
+            "Latitude":45.81425974635259
+         },
+         {
+            "_id":95,
+            "Name":"Trg žrtava fašizma",
+            "Longitude":15.986576453623274,
+            "Latitude":45.81030060842363
+         },
+         {
+            "_id":96,
+            "Name":"Trg žrtava fašizma",
+            "Longitude":15.986600465582638,
+            "Latitude":45.80959744880109
+         },
+         {
+            "_id":97,
+            "Name":"Trg žrtava fašizma",
+            "Longitude":15.987860713912854,
+            "Latitude":45.80959267133643
+         },
+         {
+            "_id":98,
+            "Name":"Trg žrtava fašizma",
+            "Longitude":15.987744049277364,
+            "Latitude":45.810357411775335
+         },
+         {
+            "_id":99,
+            "Name":"Tržnica Savica",
+            "Longitude":15.996709553187065,
+            "Latitude":45.79413637770606
+         },
+         {
+            "_id":100,
+            "Name":"Tržnica Savica",
+            "Longitude":15.996749149668654,
+            "Latitude":45.79401945421776
+         }
+      ],
+      "_links":{
+         "start":"/api/3/action/datastore_search?resource_id=93294680-2e9e-4e4e-b095-86ac4a334449",
+         "next":"/api/3/action/datastore_search?offset=100&resource_id=93294680-2e9e-4e4e-b095-86ac4a334449"
+      },
+      "total":115
+   }
+}

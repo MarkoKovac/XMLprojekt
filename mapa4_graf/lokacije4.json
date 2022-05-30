@@ -1,0 +1,1050 @@
+{
+    "help":"https://data.gov.hr/ckan/api/3/action/help_show?name=datastore_search",
+    "success":true,
+    "result":{
+       "include_total":true,
+       "resource_id":"524ca334-5e78-4473-9607-84493de4c270",
+       "fields":[
+          {
+             "type":"int",
+             "id":"_id"
+          },
+          {
+             "type":"numeric",
+             "id":"id"
+          },
+          {
+             "type":"text",
+             "id":"broj_naloga"
+          },
+          {
+             "type":"text",
+             "id":"detaljni_opis"
+          },
+          {
+             "type":"numeric",
+             "id":"Latitude"
+          },
+          {
+             "type":"numeric",
+             "id":"Longitude"
+          },
+          {
+             "type":"text",
+             "id":"detaljni_opis_lokacije"
+          },
+          {
+             "type":"text",
+             "id":"datum_odobravanja"
+          }
+       ],
+       "records_format":"objects",
+       "records":[
+          {
+             "_id":1,
+             "id":40361,
+             "broj_naloga":"40361-4-16",
+             "detaljni_opis":"Grafiti - neprikladnog sadraja.",
+             "Latitude":45.7766833841434,
+             "Longitude":15.9656845611572,
+             "detaljni_opis_lokacije":"Pothodnik Trnsko - na ulazu u pothodnik (uz stube).",
+             "datum_odobravanja":"16.9.2018"
+          },
+          {
+             "_id":2,
+             "id":40362,
+             "broj_naloga":"40362-4-16",
+             "detaljni_opis":"Grafit - neprimjerenog sadraja.",
+             "Latitude":45.7766833841434,
+             "Longitude":15.9656845611572,
+             "detaljni_opis_lokacije":"Pothodnik Trnsko (kod kioska Tiska).",
+             "datum_odobravanja":"16.9.2018"
+          },
+          {
+             "_id":3,
+             "id":46375,
+             "broj_naloga":"46375-2-17",
+             "detaljni_opis":"Grafit na postolju sata UKLONJEN- HIDROSTRES  ",
+             "Latitude":45.7903921189407,
+             "Longitude":15.9002104269837,
+             "detaljni_opis_lokacije":"Okretite tramvaja Preko  ",
+             "datum_odobravanja":"7.2.2017"
+          },
+          {
+             "_id":4,
+             "id":46479,
+             "broj_naloga":"46479-2-17",
+             "detaljni_opis":"iaran spomenik Alojzija Stepinca",
+             "Latitude":45.7774279276822,
+             "Longitude":15.9913103860855,
+             "detaljni_opis_lokacije":"plato zapadno od od I Gimnazije",
+             "datum_odobravanja":"13.2.2017"
+          },
+          {
+             "_id":5,
+             "id":46490,
+             "broj_naloga":"46490-2-17",
+             "detaljni_opis":"ispisani grafiti po nadstrenici na stajalitu tramvaja &quot;MOST MLADOSTI&quot;",
+             "Latitude":45.7849588569455,
+             "Longitude":16.0028492492676,
+             "detaljni_opis_lokacije":"stajalite tramvaja &quot;MOST MLADOSTI&quot;",
+             "datum_odobravanja":"14.2.2017"
+          },
+          {
+             "_id":6,
+             "id":46520,
+             "broj_naloga":"46520-2-17",
+             "detaljni_opis":"Kukasti kri  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7952629,
+             "Longitude":15.8929016,
+             "detaljni_opis_lokacije":"Baranovieva 10, iza zgrade",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":7,
+             "id":46525,
+             "broj_naloga":"46525-2-17",
+             "detaljni_opis":"ACAB  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7952629,
+             "Longitude":15.8929016,
+             "detaljni_opis_lokacije":"Baranovieva 10, Iza zgrade",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":8,
+             "id":46526,
+             "broj_naloga":"46526-2-17",
+             "detaljni_opis":"Mamiu cigane   UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7946448,
+             "Longitude":15.9021123,
+             "detaljni_opis_lokacije":"Marijane Radev 8, prema parku",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":9,
+             "id":46528,
+             "broj_naloga":"46528-2-17",
+             "detaljni_opis":"Mamiu cigane  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7956871,
+             "Longitude":15.8992295,
+             "detaljni_opis_lokacije":"Josipa Slavenskog 14, uz ulicu I.M. Ronjgova",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":10,
+             "id":46529,
+             "broj_naloga":"46529-2-17",
+             "detaljni_opis":"Mamiu cigane  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7956871,
+             "Longitude":15.8992295,
+             "detaljni_opis_lokacije":"Josipa Slavenskog 12",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":11,
+             "id":46531,
+             "broj_naloga":"46531-2-17",
+             "detaljni_opis":"Mamiu cigane  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7935174,
+             "Longitude":15.9003178,
+             "detaljni_opis_lokacije":"Ulica Frana Lhotke 1",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":12,
+             "id":46532,
+             "broj_naloga":"46532-2-17",
+             "detaljni_opis":"Mamiu cigane odlazi iz svetinje  ",
+             "Latitude":45.7931614,
+             "Longitude":15.9013709,
+             "detaljni_opis_lokacije":"Dobronieva ulica 1",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":13,
+             "id":46533,
+             "broj_naloga":"46533-2-17",
+             "detaljni_opis":"MUP mito uvijek primamo  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7931614,
+             "Longitude":15.9013709,
+             "detaljni_opis_lokacije":"Dobronieva 1",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":14,
+             "id":46534,
+             "broj_naloga":"46534-2-17",
+             "detaljni_opis":"Kukasti kri i ACAB  Upueno pismeno upozorenje predstavniku stanara  STANARI SU PREBOJALI UVREDLJIVE GRAFITE.  ",
+             "Latitude":45.7956871,
+             "Longitude":15.8992295,
+             "detaljni_opis_lokacije":"Josipa Slavenskog 35",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":15,
+             "id":46535,
+             "broj_naloga":"46535-2-17",
+             "detaljni_opis":"U  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA",
+             "Latitude":45.7918466,
+             "Longitude":15.898673,
+             "detaljni_opis_lokacije":"Frana Lhotke 32",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":16,
+             "id":46536,
+             "broj_naloga":"46536-2-17",
+             "detaljni_opis":"Nee razbojnie",
+             "Latitude":45.8324697,
+             "Longitude":16.0612607,
+             "detaljni_opis_lokacije":"Koledineka bb, sjeverna strana ograde, Zid trnice Plodine",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":17,
+             "id":46537,
+             "broj_naloga":"46537-2-17",
+             "detaljni_opis":"The end is back miotherfuckers  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7921335,
+             "Longitude":15.8988716,
+             "detaljni_opis_lokacije":"Frana Lhotke 26",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":18,
+             "id":46538,
+             "broj_naloga":"46538-2-17",
+             "detaljni_opis":"Stop okupaciji Dinama,",
+             "Latitude":45.8324697,
+             "Longitude":16.0612607,
+             "detaljni_opis_lokacije":"Koledineka bb, sjeverna strana ograde, Zid trnice Plodine",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":39,
+             "id":46573,
+             "broj_naloga":"46573-2-17",
+             "detaljni_opis":"Ustaki simbol na fasadi zgrade",
+             "Latitude":45.8333804,
+             "Longitude":16.052039,
+             "detaljni_opis_lokacije":"Klekovaka 34",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":19,
+             "id":46550,
+             "broj_naloga":"46550-2-17",
+             "detaljni_opis":"Ubi srbina, ubi tovara, kukasti kri  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7902043,
+             "Longitude":15.9030359999999,
+             "detaljni_opis_lokacije":"Jarnovieva 1",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":20,
+             "id":46551,
+             "broj_naloga":"46551-2-17",
+             "detaljni_opis":"Dva brata uboga j jedan drugoga  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7902065,
+             "Longitude":15.9064473999999,
+             "detaljni_opis_lokacije":"Sibeliusova 2-8, zapadna strana zgrade",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":21,
+             "id":46552,
+             "broj_naloga":"46552-2-17",
+             "detaljni_opis":"Kukasti kri  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7902065,
+             "Longitude":15.9064473999999,
+             "detaljni_opis_lokacije":"Sibeliusova 2-8, zapadna strana zgrade",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":22,
+             "id":46553,
+             "broj_naloga":"46553-2-17",
+             "detaljni_opis":"ACAB  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7902065,
+             "Longitude":15.9064473999999,
+             "detaljni_opis_lokacije":"Sibeliusova 2-8, zapadna strana zgrade  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":23,
+             "id":46554,
+             "broj_naloga":"46554-2-17",
+             "detaljni_opis":"Mamiu cigane  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7923737,
+             "Longitude":15.9096007000001,
+             "detaljni_opis_lokacije":"Horvaanska cesta 168",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":24,
+             "id":46555,
+             "broj_naloga":"46555-2-17",
+             "detaljni_opis":"ACAB  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7912013,
+             "Longitude":15.9078594,
+             "detaljni_opis_lokacije":"tefanieva 7",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":25,
+             "id":46556,
+             "broj_naloga":"46556-2-17",
+             "detaljni_opis":"Ustae  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7930352,
+             "Longitude":15.9147813,
+             "detaljni_opis_lokacije":"Vrbani 22",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":26,
+             "id":46557,
+             "broj_naloga":"46557-2-17",
+             "detaljni_opis":"U i ACAB  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7925593,
+             "Longitude":15.9142806,
+             "detaljni_opis_lokacije":"Rudeka cesta 166",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":27,
+             "id":46559,
+             "broj_naloga":"46559-2-17",
+             "detaljni_opis":"Pi.ka  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7928893,
+             "Longitude":15.9134001,
+             "detaljni_opis_lokacije":"Lopatineka 11",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":28,
+             "id":46560,
+             "broj_naloga":"46560-2-17",
+             "detaljni_opis":"VANDALI VAM DALI",
+             "Latitude":45.835799,
+             "Longitude":16.0694705999999,
+             "detaljni_opis_lokacije":"Trnovica 2a, Objekt MS (Grad Zagreb)",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":29,
+             "id":46561,
+             "broj_naloga":"46561-2-17",
+             "detaljni_opis":"Mamiu cigane, HNS pederi  VLASNICI UKLONILI GRAFITE  ",
+             "Latitude":45.7919503,
+             "Longitude":15.9166794,
+             "detaljni_opis_lokacije":"Sijeanjska 9, prolaz",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":30,
+             "id":46562,
+             "broj_naloga":"46562-2-17",
+             "detaljni_opis":"Otpor sistemu 1986  VLASNICI UKLONILI GRAFITE",
+             "Latitude":45.7919503,
+             "Longitude":15.9166794,
+             "detaljni_opis_lokacije":"Sijeanjska 9, prolaz",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":31,
+             "id":46563,
+             "broj_naloga":"46563-2-17",
+             "detaljni_opis":"Petokraka - sjeverni ulaz na zatitnoj ogradi",
+             "Latitude":45.8298102,
+             "Longitude":16.0521969,
+             "detaljni_opis_lokacije":"Grianska 2A, sjeverni ulaz",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":32,
+             "id":46565,
+             "broj_naloga":"46565-2-17",
+             "detaljni_opis":"Mami etnik UKLONJEN- HIDROSTRES  ",
+             "Latitude":45.7919503,
+             "Longitude":15.9166794,
+             "detaljni_opis_lokacije":"Sijeanjska 9, prolaz",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":33,
+             "id":46566,
+             "broj_naloga":"46566-2-17",
+             "detaljni_opis":"U  UKLONJEN - HIDROSTRES  ",
+             "Latitude":45.7919503,
+             "Longitude":15.9166794,
+             "detaljni_opis_lokacije":"SIjeanjska 9, prolaz",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":34,
+             "id":46567,
+             "broj_naloga":"46567-2-17",
+             "detaljni_opis":"Mamiu srbine  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7917395,
+             "Longitude":15.916871,
+             "detaljni_opis_lokacije":"Sijeanjska 11  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":35,
+             "id":46568,
+             "broj_naloga":"46568-2-17",
+             "detaljni_opis":"Mamiu cigane  UKLONJEN- HIDROSTRES  ",
+             "Latitude":45.7920171,
+             "Longitude":15.9160266,
+             "detaljni_opis_lokacije":"Sijeanjska 8",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":36,
+             "id":46569,
+             "broj_naloga":"46569-2-17",
+             "detaljni_opis":"Ustaki simbol na dva mjesta",
+             "Latitude":45.8379414,
+             "Longitude":16.0552275,
+             "detaljni_opis_lokacije":"Aleja Blaa Juriia 2, RC Grana Klaka- portski objekt javne namjene",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":37,
+             "id":46570,
+             "broj_naloga":"46570-2-17",
+             "detaljni_opis":"Ubi srbina  UKLONJEN - HIDROSTRES  ",
+             "Latitude":45.7920171,
+             "Longitude":15.9160266,
+             "detaljni_opis_lokacije":"Sijeanjska 8",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":38,
+             "id":46572,
+             "broj_naloga":"46572-2-17",
+             "detaljni_opis":"NDH  UKLONJEN - HIDROSTRES  ",
+             "Latitude":45.7922148,
+             "Longitude":15.9159666,
+             "detaljni_opis_lokacije":"Sijeanjska 6",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":40,
+             "id":46575,
+             "broj_naloga":"46575-2-17",
+             "detaljni_opis":"U, SS, ubi srbina  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA",
+             "Latitude":45.7924154,
+             "Longitude":15.9158767,
+             "detaljni_opis_lokacije":"Sijeanjska 4",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":41,
+             "id":46576,
+             "broj_naloga":"46576-2-17",
+             "detaljni_opis":"Prostaki natpisi na fasadi zgrade",
+             "Latitude":45.8390133,
+             "Longitude":16.0508412,
+             "detaljni_opis_lokacije":"Mirka Deanovia 15, Stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":42,
+             "id":46577,
+             "broj_naloga":"46577-2-17",
+             "detaljni_opis":"Tovarske pi.ke    UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA",
+             "Latitude":45.7924154,
+             "Longitude":15.9158767,
+             "detaljni_opis_lokacije":"Sijeanjska 4",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":43,
+             "id":46578,
+             "broj_naloga":"46578-2-17",
+             "detaljni_opis":"SS i NDH    UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.7924154,
+             "Longitude":15.9158767,
+             "detaljni_opis_lokacije":"Sijeanjska 4",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":44,
+             "id":46579,
+             "broj_naloga":"46579-2-17",
+             "detaljni_opis":"Mamiu srbine, svastika na fasadi zgrade",
+             "Latitude":45.8391223,
+             "Longitude":16.0510914,
+             "detaljni_opis_lokacije":"Mirka Deanovia 19, Stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":45,
+             "id":46581,
+             "broj_naloga":"46581-2-17",
+             "detaljni_opis":"Ustae    UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA  ",
+             "Latitude":45.793401,
+             "Longitude":15.9200423,
+             "detaljni_opis_lokacije":"Oujska ulica 1",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":46,
+             "id":46582,
+             "broj_naloga":"46582-2-17",
+             "detaljni_opis":"Svastika",
+             "Latitude":45.8378409,
+             "Longitude":16.0377753,
+             "detaljni_opis_lokacije":"Novaka nasuprot kbr. 63",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":47,
+             "id":46583,
+             "broj_naloga":"46583-2-17",
+             "detaljni_opis":"Lijevo od ulaza",
+             "Latitude":45.8277967,
+             "Longitude":16.0752769000001,
+             "detaljni_opis_lokacije":"Dubrava 256F-lijevo od ulaza, Stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":48,
+             "id":46584,
+             "broj_naloga":"46584-2-17",
+             "detaljni_opis":"Ustaki simboli",
+             "Latitude":45.8174033,
+             "Longitude":16.0499818000001,
+             "detaljni_opis_lokacije":"Resniki put 1A, Mjesna samouprava Trnava",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":49,
+             "id":46585,
+             "broj_naloga":"46585-2-17",
+             "detaljni_opis":"Trafostanica (HEP)",
+             "Latitude":45.8159969,
+             "Longitude":16.0506278,
+             "detaljni_opis_lokacije":"Resniki put, kod kbr.22, Trafostanica (HEP)",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":50,
+             "id":46586,
+             "broj_naloga":"46586-2-17",
+             "detaljni_opis":"Punk is not dead",
+             "Latitude":45.8262943,
+             "Longitude":16.0685121,
+             "detaljni_opis_lokacije":"Aleja javora 2, O.. Retkovec",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":51,
+             "id":46587,
+             "broj_naloga":"46587-2-17",
+             "detaljni_opis":"Podrunica D.vrtia. Jabuka",
+             "Latitude":45.825667,
+             "Longitude":16.06619,
+             "detaljni_opis_lokacije":"Podrunica D.vrtia. Jabuka",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":52,
+             "id":46588,
+             "broj_naloga":"46588-2-17",
+             "detaljni_opis":"JANJEVCE NA KOLCE Sjeverni dio zgrade",
+             "Latitude":45.828881,
+             "Longitude":16.071266,
+             "detaljni_opis_lokacije":"Druge Poljanice kbr.2, Stambena zgrada u vlasnitvu Grada Zagreba",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":53,
+             "id":46589,
+             "broj_naloga":"46589-2-17",
+             "detaljni_opis":"Juna strana objekta, neposredno uz plato placa",
+             "Latitude":45.8243099,
+             "Longitude":16.0416559,
+             "detaljni_opis_lokacije":"Cerska 1, Javna namjena",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":54,
+             "id":46590,
+             "broj_naloga":"46590-2-17",
+             "detaljni_opis":"Juna strana objekta, neposredno uz plato placa",
+             "Latitude":45.8243099,
+             "Longitude":16.0416559,
+             "detaljni_opis_lokacije":"Cerska 1",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":55,
+             "id":46593,
+             "broj_naloga":"46593-2-17",
+             "detaljni_opis":"Ustae i U    UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA",
+             "Latitude":45.7920022,
+             "Longitude":15.9210603,
+             "detaljni_opis_lokacije":"Oujska 21, prolaz",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":56,
+             "id":46594,
+             "broj_naloga":"46594-2-17",
+             "detaljni_opis":"Kukasti kri  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA",
+             "Latitude":45.7925814,
+             "Longitude":15.9208163000001,
+             "detaljni_opis_lokacije":"Oujska 13, prema djejem igralitu",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":57,
+             "id":46595,
+             "broj_naloga":"46595-2-17",
+             "detaljni_opis":"Mamiu pederu  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA",
+             "Latitude":45.7909302,
+             "Longitude":15.919041,
+             "detaljni_opis_lokacije":"Srpanjska 1",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":58,
+             "id":46596,
+             "broj_naloga":"46596-2-17",
+             "detaljni_opis":"ACAB (2 kom)  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA",
+             "Latitude":45.7909302,
+             "Longitude":15.919041,
+             "detaljni_opis_lokacije":"Srpanjska 1",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":59,
+             "id":46598,
+             "broj_naloga":"46598-2-17",
+             "detaljni_opis":"U  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA",
+             "Latitude":45.791564,
+             "Longitude":15.9184455,
+             "detaljni_opis_lokacije":"Srpanjska 10, prema potoku",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":60,
+             "id":46599,
+             "broj_naloga":"46599-2-17",
+             "detaljni_opis":"Mamiu pederu  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA",
+             "Latitude":45.791564,
+             "Longitude":15.9184455,
+             "detaljni_opis_lokacije":"Srpanjska 10, prema koli",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":61,
+             "id":46600,
+             "broj_naloga":"46600-2-17",
+             "detaljni_opis":"Mamiu pederu  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA",
+             "Latitude":45.7911501,
+             "Longitude":15.919863,
+             "detaljni_opis_lokacije":"Travanjska 11, dvorina strana",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":62,
+             "id":46602,
+             "broj_naloga":"46602-2-17",
+             "detaljni_opis":"Kukasti kri  UPUENO PISMENO UPOZORENJE PREDSTAVNIKU STANARA",
+             "Latitude":45.7910332,
+             "Longitude":15.9207647000001,
+             "detaljni_opis_lokacije":"Lipanjska 2",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":63,
+             "id":46603,
+             "broj_naloga":"46603-2-17",
+             "detaljni_opis":"ACAB",
+             "Latitude":45.8028429,
+             "Longitude":15.9618097,
+             "detaljni_opis_lokacije":"Tratinska 13",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":64,
+             "id":46604,
+             "broj_naloga":"46604-2-17",
+             "detaljni_opis":"Smrt Mamiu",
+             "Latitude":45.801884,
+             "Longitude":15.9598051,
+             "detaljni_opis_lokacije":"Tratinska 39",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":65,
+             "id":46605,
+             "broj_naloga":"46605-2-17",
+             "detaljni_opis":"UBIJ DROTOVE",
+             "Latitude":45.7952302,
+             "Longitude":15.949166,
+             "detaljni_opis_lokacije":"Nehajska 63",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":66,
+             "id":46606,
+             "broj_naloga":"46606-2-17",
+             "detaljni_opis":"MAMIU CIGANE",
+             "Latitude":45.7979472,
+             "Longitude":15.9450382,
+             "detaljni_opis_lokacije":"Ozaljska 65",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":67,
+             "id":46607,
+             "broj_naloga":"46607-2-17",
+             "detaljni_opis":"UBIJ DROTOVE",
+             "Latitude":45.7980271,
+             "Longitude":15.9455239,
+             "detaljni_opis_lokacije":"Ozaljska 57",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":68,
+             "id":46608,
+             "broj_naloga":"46608-2-17",
+             "detaljni_opis":"MAMIU CIGANE",
+             "Latitude":45.7980711,
+             "Longitude":15.9457763,
+             "detaljni_opis_lokacije":"Ozaljska 53",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":69,
+             "id":46609,
+             "broj_naloga":"46609-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8146269,
+             "Longitude":16.0147025,
+             "detaljni_opis_lokacije":"Divka Budaka 1, stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":70,
+             "id":46610,
+             "broj_naloga":"46610-2-17",
+             "detaljni_opis":"Nema opisa",
+             "Latitude":45.798326,
+             "Longitude":15.9462249000001,
+             "detaljni_opis_lokacije":"Ozaljska 76",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":71,
+             "id":46611,
+             "broj_naloga":"46611-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8149222,
+             "Longitude":16.0145686,
+             "detaljni_opis_lokacije":"Divka Budaka 1 a, stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":72,
+             "id":46612,
+             "broj_naloga":"46612-2-17",
+             "detaljni_opis":"Nema opisa",
+             "Latitude":45.7982771,
+             "Longitude":15.9459339,
+             "detaljni_opis_lokacije":"Ozaljska 80",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":73,
+             "id":46613,
+             "broj_naloga":"46613-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8151174,
+             "Longitude":16.0134429,
+             "detaljni_opis_lokacije":"Divka Budaka 1 d, stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":74,
+             "id":46614,
+             "broj_naloga":"46614-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8147035,
+             "Longitude":16.0150566,
+             "detaljni_opis_lokacije":"Divka Budaka 4, stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":75,
+             "id":46615,
+             "broj_naloga":"46615-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8146595,
+             "Longitude":16.0152886,
+             "detaljni_opis_lokacije":"Divka Budaka 5, stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":76,
+             "id":46616,
+             "broj_naloga":"46616-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8143594,
+             "Longitude":16.0156259,
+             "detaljni_opis_lokacije":"Divka Budaka 7, stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":77,
+             "id":46617,
+             "broj_naloga":"46617-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8144012,
+             "Longitude":16.0159247,
+             "detaljni_opis_lokacije":"Divka Budaka 10, k.. 514 , k.o Peenica, Grad Zagreb",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":78,
+             "id":46618,
+             "broj_naloga":"46618-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8143526,
+             "Longitude":16.0161504,
+             "detaljni_opis_lokacije":"Divka Budaka 11, stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":79,
+             "id":46619,
+             "broj_naloga":"46619-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8143401,
+             "Longitude":16.0163854,
+             "detaljni_opis_lokacije":"Divka Budaka 12, stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":80,
+             "id":46620,
+             "broj_naloga":"46620-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8131594,
+             "Longitude":16.0138344,
+             "detaljni_opis_lokacije":"Trpinjska ulica 2, (zid uz zgradu)",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":81,
+             "id":46626,
+             "broj_naloga":"46626-2-17",
+             "detaljni_opis":"Nema opisa",
+             "Latitude":45.7982285,
+             "Longitude":15.9456496,
+             "detaljni_opis_lokacije":"Ozaljska 84",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":82,
+             "id":46627,
+             "broj_naloga":"46627-2-17",
+             "detaljni_opis":"Nema opisa",
+             "Latitude":45.7982021,
+             "Longitude":15.9455026000001,
+             "detaljni_opis_lokacije":"Ozaljska 86",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":83,
+             "id":46628,
+             "broj_naloga":"46628-2-17",
+             "detaljni_opis":"Nema opisa",
+             "Latitude":45.7981313,
+             "Longitude":15.9450649,
+             "detaljni_opis_lokacije":"Ozaljska 94",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":84,
+             "id":46631,
+             "broj_naloga":"46631-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8131882,
+             "Longitude":16.0142589,
+             "detaljni_opis_lokacije":"Trpinjska ulica 4, stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":85,
+             "id":46632,
+             "broj_naloga":"46632-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8129105,
+             "Longitude":16.0151437,
+             "detaljni_opis_lokacije":"Trpinjska ulica 5A  zid uz zgradu",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":86,
+             "id":46633,
+             "broj_naloga":"46633-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8129105,
+             "Longitude":16.0151437,
+             "detaljni_opis_lokacije":"Trpinjska ulica 5A  zid  iza  stambene zgrade",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":87,
+             "id":46634,
+             "broj_naloga":"46634-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8132698,
+             "Longitude":16.0154712,
+             "detaljni_opis_lokacije":"Trpinjska ulica 13, stambena zgrada",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":88,
+             "id":46635,
+             "broj_naloga":"46635-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8148221,
+             "Longitude":16.0133104,
+             "detaljni_opis_lokacije":"Svetice  21  stambena zgrada (prolaz)  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":89,
+             "id":46636,
+             "broj_naloga":"46636-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.815385,
+             "Longitude":16.0118467,
+             "detaljni_opis_lokacije":"Kennedyjev trg  8  Kod kole za cestovni promet  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":90,
+             "id":46637,
+             "broj_naloga":"46637-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.812591,
+             "Longitude":16.0124558,
+             "detaljni_opis_lokacije":"Svetice 46  stambena zgrada  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":91,
+             "id":46638,
+             "broj_naloga":"46638-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8125354,
+             "Longitude":16.0131191,
+             "detaljni_opis_lokacije":"Svetice 50  stambena zgrada  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":92,
+             "id":46639,
+             "broj_naloga":"46639-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8103044,
+             "Longitude":16.0057532000001,
+             "detaljni_opis_lokacije":"erinina 23  Zgrada Ministarstva branitelja  (od strane Branimirove)  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":93,
+             "id":46641,
+             "broj_naloga":"46641-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8096419,
+             "Longitude":16.0036564,
+             "detaljni_opis_lokacije":"Heinzelova 47 a  stambeno-poslovna zgrada  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":94,
+             "id":46642,
+             "broj_naloga":"46642-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8096419,
+             "Longitude":16.0036564,
+             "detaljni_opis_lokacije":"Heinzelova 47 b  stambena zgrada i prolaz  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":95,
+             "id":46643,
+             "broj_naloga":"46643-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8096419,
+             "Longitude":16.0036564,
+             "detaljni_opis_lokacije":"Heinzelova 47 d  stambena zgrada i prolaz  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":96,
+             "id":46644,
+             "broj_naloga":"46644-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8129703,
+             "Longitude":16.0106478,
+             "detaljni_opis_lokacije":"Harambaieva 43  stambena zgrada  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":97,
+             "id":46645,
+             "broj_naloga":"46645-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.813415,
+             "Longitude":16.0067359,
+             "detaljni_opis_lokacije":"Kulanova 42  zid  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":98,
+             "id":46650,
+             "broj_naloga":"46650-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8115469,
+             "Longitude":16.0113650000001,
+             "detaljni_opis_lokacije":"Naselak 1  stambena zgrada  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":99,
+             "id":46651,
+             "broj_naloga":"46651-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8114819,
+             "Longitude":16.0090775,
+             "detaljni_opis_lokacije":"Naselak 31  stambena zgrada  ",
+             "datum_odobravanja":"8.3.2017"
+          },
+          {
+             "_id":100,
+             "id":46652,
+             "broj_naloga":"46652-2-17",
+             "detaljni_opis":"Nema opisa.",
+             "Latitude":45.8117719,
+             "Longitude":16.0113497,
+             "detaljni_opis_lokacije":"Livadarski put 14  stambena zgrada  ",
+             "datum_odobravanja":"8.3.2017"
+          }
+       ],
+       "_links":{
+          "start":"/api/3/action/datastore_search?resource_id=524ca334-5e78-4473-9607-84493de4c270",
+          "next":"/api/3/action/datastore_search?offset=100&resource_id=524ca334-5e78-4473-9607-84493de4c270"
+       },
+       "total": 2907
+    }
+}    
