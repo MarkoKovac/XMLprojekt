@@ -1,15 +1,15 @@
 async function initMap() {
 
-  const url = "marker1.svg";
+  const url = "../markeri/marker3.svg";
 
-  const response2 = await fetch('dizajn.json');
+  const response2 = await fetch('../dizajn.json');
   const data2 = await response2.json();
   const styledMapType = new google.maps.StyledMapType(
     data2,
     { name: "Styled Map" }
   );
 
-  const response = await fetch("lokacije3.json");
+  const response = await fetch("../lokacije/lokacije3.json");
   const data = await response.json();
   const start_location = { lat: 45.81295836043709, lng: 15.974741839933875};
   const map = new google.maps.Map(document.getElementById("map"), {

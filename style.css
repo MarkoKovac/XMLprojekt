@@ -4,7 +4,8 @@ body {
   margin: 0;
   padding: 0;
 }
-#head{
+
+.head {
   z-index: 1;
   position: fixed;
   top: 0;
@@ -12,10 +13,26 @@ body {
   text-align: center;
   height: 80px;
   width: 100%;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   background-color: #707070;
   color: white;
   font-size: 16px;
+}
+
+#head_lokacija_1 {
+  background-color: #0AD055;
+}
+
+#head_lokacija_2 {
+  background-color: #00C3FF;
+}
+
+#head_lokacija_3 {
+  background-color: #E5261F;
+}
+
+#head_lokacija_4 {
+  background-color: #FFCF1D;
 }
 
 #map {
@@ -31,25 +48,25 @@ body {
   width: 100%;
   height: 60px;
   display: flex;
-  align-items: center; 
+  align-items: center;
   justify-content: center;
 }
 
-#nav ul{
+#nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-#nav ul li{
+#nav ul li {
   display: inline-block;
   width: 60px;
   height: 60px;
   margin: 5px;
 }
 
-#nav ul li a{
-  display:inline-block;
+#nav ul li a {
+  display: inline-block;
   text-decoration: none;
   width: 60px;
   height: 60px;
@@ -57,23 +74,24 @@ body {
   border: 1px solid black;
   border-radius: 10px;
   display: flex;
-  align-items: center; 
+  align-items: center;
   justify-content: center;
 
 }
 
-#nav ul li a:link, #nav ul li a:visited {
+#nav ul li a:link,
+#nav ul li a:visited {
   color: black;
 }
 
-#nav ul li img{
+#nav ul li img {
   width: 46px;
   height: 46px;
-} 
+}
 
 @media only screen and (max-width: 600px) {
-  #head{
-    padding:10px 0px;
+  #head {
+    padding: 10px 0px;
     font-size: 10px;
     height: 50px;
   }
