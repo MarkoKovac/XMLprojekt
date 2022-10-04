@@ -5,7 +5,7 @@ body {
   padding: 0;
 }
 
-.head {
+.header {
   z-index: 1;
   display: flex;
   justify-content: center;
@@ -19,19 +19,19 @@ body {
   font-size: 16px;
 }
 
-#head_lokacija_1 {
+#header_lokacija_1 {
   background-color: #0AD055;
 }
 
-#head_lokacija_2 {
+#header_lokacija_2 {
   background-color: #00C3FF;
 }
 
-#head_lokacija_3 {
+#header_lokacija_3 {
   background-color: #E5261F;
 }
 
-#head_lokacija_4 {
+#header_lokacija_4 {
   background-color: #FFCF1D;
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
-  .head {
+  .header {
     font-size: 11px;
   }
 }
